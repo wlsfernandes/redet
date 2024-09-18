@@ -3,13 +3,24 @@ include 'header.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <section class="page-title centred">
-    <div class="bg-layer" style="background-image: url(assets/images/team/book_background.jpg);"></div>
+    <div class="bg-layer" style="background-image: url(assets/images/home_redet.jpg);"></div>
     <div class="auto-container">
         <div class="content-box">
             <h1><?php echo $lang['website_name']; ?></h1>
         </div>
     </div>
 </section>
+
+<section class="cta-section centred">
+            <div class="bg-layer parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/home_become.png);"></div>
+            <div class="auto-container">
+                <div class="inner-box">
+                    <h3>Change The World</h3>
+                    <h2>Join the Community of Over a <br />Million People</h2>
+                    <a href="contact.html" class="theme-btn-one"><span>Get In Touch</span></a>
+                </div>
+            </div>
+        </section>
 <!--
 <section class="about-style-two pt_120">
     <div class="auto-container">
