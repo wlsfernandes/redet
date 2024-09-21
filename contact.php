@@ -22,32 +22,21 @@
 <section class="contact-info-section bg-color-1 centred">
     <div class="auto-container">
         <div class="row clearfix">
-            <div class="col-lg-4 col-md-6 col-sm-12 info-column">
+            <div class="col-lg-6 col-md-6 col-sm-12 info-column">
                 <div class="info-block-one">
                     <div class="inner-box">
                         <div class="icon-box"><i class="icon-63"></i></div>
                         <h3>Phone</h3>
                         <p><a href="tel:14077731234">+1 (407) 773-1234</a></p>
-                        <p><a href="tel:14077546863">+1 (407) 754-6863</a></p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 info-column">
+            <div class="col-lg-6 col-md-6 col-sm-12 info-column">
                 <div class="info-block-one">
                     <div class="inner-box">
                         <div class="icon-box"><i class="icon-64"></i></div>
-                        <h3><?php echo $lang['email_address'] ?></h3>
-                        <p><a href="mailto:jcgcenter@aeth.org">jcgcenter@aeth.org</a></p>
+                        <h3>Email</h3>
                         <p><a href="mailto:info@aeth.org">info@aeth.org</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 info-column">
-                <div class="info-block-one">
-                    <div class="inner-box">
-                        <div class="icon-box"><i class="icon-65"></i></div>
-                        <h3><?php echo $lang['our_location'] ?></h3>
-                        <p>160 Clariemont Avenue - Decatur <br />GA 30030</p>
                     </div>
                 </div>
             </div>
@@ -71,10 +60,10 @@
                     <h3><?php echo $lang['fell_free'] ?></h3>
                     <p>Our team is here to help you with any questions or concerns. Whether you need support, have feedback, or just want to learn more about our services, don't hesitate to reach out. We are committed to providing the best service and support possible.</p>
                     <ul class="social-links clearfix">
-                        <li><a href="contact.html"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="contact.html"><i class="fab fa-twitter"></i></a></li>
-                        <li><a href="contact.html"><i class="fab fa-pinterest-p"></i></a></li>
-                        <li><a href="contact.html"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
+                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
             </div>
