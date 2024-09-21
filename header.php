@@ -273,7 +273,7 @@ if (file_exists($lang_file)) {
                                             href="index.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['home']; ?></a>
                                     </li>
                                     <li class="dropdown">
-                                        <a href=""><?php echo $lang['about']; ?></a>
+                                        <a href="about.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['about']; ?></a>
                                         <ul>
                                             <li><a href="team.php?lang=<?php echo $lang_code; ?>">Our Team</a></li>
 
@@ -350,7 +350,7 @@ if (file_exists($lang_file)) {
             <div class="close-btn"><i class="fas fa-times"></i></div>
 
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.php"><img src="assets/images/redt-logo.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="index.php"><img src="assets/images/redet-logo.png" alt="" title=""></a></div>
                 <div class="menu-outer">
                     <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
                 </div>
