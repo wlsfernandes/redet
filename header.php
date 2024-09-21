@@ -26,7 +26,7 @@ if (file_exists($lang_file)) {
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-    <title>González Resource Center</title>
+    <title>REDET - Network od Theological Entities</title>
 
     <!-- Fav Icon -->
     <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
@@ -219,9 +219,16 @@ if (file_exists($lang_file)) {
             <div class="header-top">
                 <div class="top-inner">
                     <div class="top-left">
+                        <div class="social-links">
+                            <ul class="clearfix">
+                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="index.php"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
+
+                            </ul>
+                        </div>
                         <ul class="info">
-                            <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
-                            <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
+
                             <li>
                                 <!--<a href="mailto:jcgcenter@aeth.org"><i class="icon-22"></i>jcgcenter@aeth.org</a>-->
                                 <a href="?lang=en"><img
@@ -237,11 +244,11 @@ if (file_exists($lang_file)) {
 
                         </ul>
                     </div>
-                    <div class="top-right">
+                    <!--  <div class="top-right">
                         <ul class="info">
                             <li><a href="mailto:jcgcenter@aeth.org"><i class="icon-22"></i>jcgcenter@aeth.org</a></li>
                         </ul>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <!-- header-lower -->
@@ -268,31 +275,26 @@ if (file_exists($lang_file)) {
                                     <li class="dropdown">
                                         <a href=""><?php echo $lang['about']; ?></a>
                                         <ul>
-                                            <li><a href="about.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['about']; ?></a>
-                                            </li>
                                             <li><a href="team.php?lang=<?php echo $lang_code; ?>">Our Team</a></li>
 
                                             <li><a href="faq.php?lang=<?php echo $lang_code; ?>">FAQ</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown">
+                                    <li class="current">
                                         <a
-                                            href="collection.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['collection']; ?></a>
-                                        <ul>
-                                            <li><a
-                                                    href="collection.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['collection']; ?></a>
-                                            </li>
-                                            <li><a
-                                                    href="video.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['video']; ?></a>
-                                            </li>
-                                            <li><a
-                                                    href="gallery.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['gallery']; ?></a>
-                                            </li>
-                                        </ul>
+                                            href="colab.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['colab']; ?></a>
                                     </li>
                                     <li class="current">
                                         <a
-                                            href="friends.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['friends']; ?></a>
+                                            href="comunidad.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['comunidad']; ?></a>
+                                    </li>
+                                    <li class="current">
+                                        <a
+                                            href="members.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['members']; ?></a>
+                                    </li>
+                                    <li class="current">
+                                        <a
+                                            href="https://aeth.info/blog" target="blank"><?php echo $lang['news']; ?></a>
                                     </li>
                                     <li>
                                         <a
@@ -311,7 +313,7 @@ if (file_exists($lang_file)) {
                             <a href="shop.html"><i class="icon-23"></i></a>
                         </li> -->
                         <li class="btn-box">
-                            <button class="donate-box-btn theme-btn-one"><span><?php echo $lang['donate']?></span></button>
+                            <button class="donate-box-btn theme-btn-one"><span><?php echo $lang['donate'] ?></span></button>
                         </li>
                     </ul>
                 </div>
