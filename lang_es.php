@@ -48,20 +48,20 @@ $lang = array(
     'plan' => 'Plan Estratégico',
     'plan_desc' => 'Muestras de planes estratégicos y artículos valiosos sobre el tema.',
     'plan_page1' => 'Este catálogo contiene muestras de planes estratégicos de organizaciones miembros de ReDET. Además, encontrará artículos valiosos sobre el tema escritos por  otras organizaciones.',
-    'plan_page2'=> '<a href="https://www.wartburgseminary.edu/download/strategic-plan-2017-2020/" target="blank">Wartburg Seminary</a>',
-    'plan_page3'=> '<a href="https://alban.org/category/strategic-planning/" target="blank">Alban Institute at Duke Divinity School</a>',
-    'plan_page4'=> '<a href="https://drive.google.com/drive/folders/14A8XSAXrDGAvplUYBYeuz9GHNHj5408p" target="blank">ReDET</a>',
+    'plan_page2' => '<a href="https://www.wartburgseminary.edu/download/strategic-plan-2017-2020/" target="blank">Wartburg Seminary</a>',
+    'plan_page3' => '<a href="https://alban.org/category/strategic-planning/" target="blank">Alban Institute at Duke Divinity School</a>',
+    'plan_page4' => '<a href="https://drive.google.com/drive/folders/14A8XSAXrDGAvplUYBYeuz9GHNHj5408p" target="blank">ReDET</a>',
     'recurso' => 'Recurso',
     'liderasgo' => 'Liderazgo',
     'liderasgo_desc' => 'Artículos valiosos sobre el tema del liderazgo en una variedad de contextos escritos por diversos autores y organizaciones.',
     'liderazgo_page1' => 'Este catálogo contiene artículos valiosos sobre el tema del liderazgo en una variedad de contextos escritos por diversos autores y organizaciones',
     'liderazgo_page2' => '<a href="https://alban.org/category/leadership/page/2/" target="blank">Alban Institute at Duke Divinity School</a>',
     'liderazgo_page3' => '<a href=" https://drive.google.com/file/d/1gVWuCEn8BFPPTfvVk0rcsMjLvDFwyVKO/view" target="blank"> Catálogo Institucional IBIT</a>',
- 
-   
-    
-    
-    
+
+
+
+
+
     'formation' => 'Formácion Espiritual',
     'formation_desc' => 'Sitios web de organizaciones dedicadas a la formación espiritual en una variedad de entornos y al servicio de diferentes comunidades.',
     'segunda' => 'Segunda Generácion',
@@ -87,12 +87,25 @@ $lang = array(
     'comunidad_desc3' => 'Los institutos desarrollarán y pondrán a disposición, por escrito, estatutos / reglamentos y los documentos comparables que definan los niveles de responsabilidad institucional, así como los documentos legales y la autorización de los organismos de acreditación eclesiales, gubernamentales y educativos aplicables. Estos documentos deben revisarse periódicamente para verificar su cumplimiento. (Manual de certificación de AETH, pág. 9).',
     'comunidad_desc4' => 'El propósito general de este proyecto es el de construir los medios (vehículos) y la capacidad de colaboración entre los Institutos Bíblicos Hispanos, y programas similares de capacitación teológica de líderes de iglesias hispanas mediante la creación de una red de colaboración que pueda trabajar para resolver problemas comunes, la innovación. y trabajar en proyectos conjuntos que mejorarán la calidad de su funcionamiento y elevarán los niveles de matrícula y graduados.',
     'clickaccess' => 'Haga clic aquí para acceder a los recursos de ReDET',
-    '' => '',
-    '' => '',
-    '' => '',
-    '' => '',
-    '' => '',
-    '' => '',
+    'member_p1' => '¿Cómo hacerse miembro de ReDET?',
+    'member_p2' => 'En abril del 2017, la Asamblea extraordinaria de AETH ratificó de manera unánime la necesidad de formar la ReDET y la estableció como una de sus prioridades estratégicas. Con la creación de la ReDET, AETH ha tomado la iniciativa de facili- tar el encuentro, la sinergia y la colaboración entre personas y entidades dedicadas a la educación teológica hispana inte- resadas en la búsqueda conjunta de soluciones a problemas comunes, en la superación de barreras que comparten y en identificar las contribuciones particulares que cada uno está haciendo.',
+    'member_p3' => 'Miembros individuales o institucionales de AETH pueden ampliar sus beneficios y su potencial para transformar la educa- ción teológica, haciéndose también miembros de ReDET. Para esto deben llenar el formulario correspondiente – para per- sona o para organización – que se encuentra en esta página web. Recibirán una respuesta a su solicitud, una vez ReDET corrobore que cumplen con los requisitos. En la respuesta encontrarán las indicaciones para activar su membresía.',
+    'faq_q1' => 'Membresía individual de ReDET',
+    'faq_a1' => '<p>AETH reconoce que dentro de sus miembros hay personas deseosas de identificar las contribuciones particulares que cada uno está haciendo y comprometidas a buscar de manera conjunta soluciones a problemas y barreras comunes en programas de educación teológica hispana. Por eso es importante que miembros de AETH se unan a ReDET si:</p>
+<p>Cuentan con estudios formales en el campo de la educación teológica o en campos relacionados con la educación y la administración de instituciones educativas,</p>
+<p>O cuentan con amplia experiencia dirigiendo programas de formación educativa, dentro y fuera del campo teológico-pastoral.</p>
+<p>Si tú eres una de estas personas, te invitamos a que con tu conocimiento y experiencia fortalezcas la ReDET.</p>
+<p>Tu aporte es necesario para transformar la situación.</p>
+<p><strong>¡Hazte miembro de ReDET!</strong></p><p><a href="https://aeth.info/afiliacion" target="blank">Página de membresía de AETH</a>',
+
+    'faq_q2' => 'Membresía institucional de ReDET',
+    'faq_a2' => '<p>AETH reconoce que dentro de sus miembros hay personas deseosas de identificar las contribuciones particulares que cada uno está haciendo y comprometidas a buscar de manera conjunta soluciones a problemas y barreras comunes en programas de educación teológica hispana. Por eso es importante que miembros de AETH se unan a ReDET si:</p>
+<p>Cuentan con estudios formales en el campo de la educación teológica o en campos relacionados con la educación y la administración de instituciones educativas,</p>
+<p>O cuentan con amplia experiencia dirigiendo programas de formación educativa, dentro y fuera del campo teológico-pastoral.</p>
+<p>Si tú eres una de estas personas, te invitamos a que con tu conocimiento y experiencia fortalezcas la ReDET.</p>
+<p>Tu aporte es necesario para transformar la situación.</p>
+<p><strong>¡Hazte miembro de ReDET!</strong></p><p><a href="https://aeth.info/afiliacion" target="blank">Página de membresía de AETH</a>',
+
     '' => '',
     '' => '',
     '' => '',
