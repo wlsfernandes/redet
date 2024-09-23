@@ -58,28 +58,73 @@ $lang = array(
     'liderazgo_page2' => '<a href="https://alban.org/category/leadership/page/2/" target="blank">Alban Institute at Duke Divinity School</a>',
     'liderazgo_page3' => '<a href=" https://drive.google.com/file/d/1gVWuCEn8BFPPTfvVk0rcsMjLvDFwyVKO/view" target="blank"> Catálogo Institucional IBIT</a>',
 
-
-
-
-
     'formation' => 'Formácion Espiritual',
     'formation_desc' => 'Sitios web de organizaciones dedicadas a la formación espiritual en una variedad de entornos y al servicio de diferentes comunidades.',
+    'formation_p1' => 'Este catálogo contiene los sitios web de organizaciones dedicadas a la formación espiritual en una variedad de entornos y al servicio de diferentes comunidades.',
+    'formation_p2' => '<a href="https://www.redet.us/www.ashreimexico.net" target="blank">Ashrei Spiritual Formation </a>',
+    'formation_p3' => '<a href="https://renovare.org/" target="blank">Renovaré </a>',
+    'formation_p4' => '<a href="https://thecrucibleproject.org/" target="blank">The Crucible Project (Men/Women Retreats) </a>',
+    'formation_p5' => '<a href="http://daretosoarcouples.com/" target="blank">Dare to Soar (Couples) </a>',
+
+
+
     'segunda' => 'Segunda Generácion',
     'segunda_desc' => 'Recursos que abordan hispanos / latinos de segunda generación.',
+    'segunda_p1' => 'Este catálogo contiene podcasts dirigidos a personas mixtas hispanas / latinas y a la iglesia mixta. Los podcasts responden preguntas sobre los desafíos de la primera, segunda y tercera generación de inmigrantes, siendo parte, sirviendo y creciendo en una iglesia étnica.',
+    'segunda_p2' => 'The Mestizo Podcast por World Outspoken.',
+    'segunda_p3' => 'Podcasts dirigidos a personas mixtas hispanas / latinas, a la iglesia mixta, y generación de inmigrantes, siendo parte, sirviendo y creciendo en una iglesia étnica.Cada uno de los episodios es publicado cada miércoles (para un total de 8 episodios).Miembros de AETH pueden suscribirse a los podcasts en cualquier plataforma (Apple Podcast, Spotify, Google Podcast, y Stitcher) para que no se pierdan los episodios.',
+
     'newcatalog' => 'Catálogo de Instituto Bíblico',
     'newcatalog_desc' => 'Muestras de planes estratégicos y artículos valiosos sobre el tema',
+    'catalogo_p1' => 'Este catálogo contiene muestras de catálogos de institutos bíblicos miembros de ReDET.',
+    'catalogo_p2' => '<a href="http://ibitibi.org/wp-content/uploads/2019/07/Catalogo-de-IBIT-2019-2020.docx" target="blank">El Instituto Bíblico Internacional de Texas </a>',
+
     'materiales' => 'Materiales Didáticos',
     'materiales_desc' => 'Sitios web y otras fuentes que ofrecen información útil, artículos, libros y otros materiales para la instrucción.',
+    'materiales_p1' => 'Este catálogo contiene sitios web y otras fuentes que ofrecen información útil, artículos, libros y otros materiales para la instrucción.',
+    'materiales_p2' => '<a href="https://www.tallerteologicolatinoamericano.org/" target="blank">Taller Teológico Latinoamericano</a>',
+    'materiales_p3' => '<a href="https://bibleproject.com/" target="blank">Bible Project</a>',
+    'materiales_p4' => '<a href="https://www.tallerteologicolatinoamericano.org/" target="blank">Taller Teológico Latinoamericano</a>',
+    'materiales_p5' => '<a href="https://ibitibi.org/en/start-home-page" target="blank">Instituto Bíbico Internacional de Texas</a>',
+    'materiales_p6' => '<a href="https://redinbi.org/" target="blank">Graduate School of Theology</a>',
+
     'materiales_inter' => 'Materiales Interculturales',
     'materiales_inter_desc' => 'Sitios web y otras fuentes con enfoque intercultural.',
+    'materialesinter_p1' => 'Este catálogo contiene sitios web y otras fuentes con enfoque intercultural.',
+    'materialesinter_p2' => '<a href="http://www.missiology.org/" target="blank">Missiology</a>',
+    'materialesinter_p3' => '<a href="https://missionalive.org/" target="blank">Mission Alive</a>',
+
     'desarollo' => 'Desarollo Organizacional',
     'desarollo_desc' => 'Sitios web y artículos sobre análisis PESTEL.',
+    'desarollo_p1' => 'Este catálogo contiene sitios web y artículos sobre análisis PESTEL: variables políticas, económicas, sociales, tecnológicas, ecológicas y legales que afectan al objeto de estudio desde su entorno más lejano. ',
+    'desarollo_p2' => '<a href="http://www.ncd-international.org/" target="blank">National Church Development (NCD)</a>',
+    'desarollo_p3' => '<a href="https://www.thebowencenter.org/introduction-eight-concepts" target="blank">The Bowen Center for the study of the Family</a>',
+
+
     'sistema' => 'Sistema de Manejo de Aprendizaje',
     'sistema_desc' => 'Sitios web e información sobre sistemas de manejo del aprendizaje virtual.',
+    'sistema_p1' => 'Este catálogo contiene sitios web e información sobre sistemas de manejo del aprendizaje virtual.',
+    'sistema_p2' => '<a href="https://www.d2l.com/products/learning-environment/" target="blank">D2L – Desire to Learn: Brightspace Learning Environment</a>',
+    'sistema_p3' => '<a href="https://360.articulate.com/" target="blank">Articulate</a>',
+    'sistema_p4' => '<a href="https://moodle.com/" target="blank">Moodle</a>',
+    'sistema_p5' => '<a href="https://www.instructure.com/canvas" target="blank">Canvas</a>',
+    'sistema_p6' => '<a href="https://www.blackboard.com/" target="blank">Blackboard</a>',
+
     'colaboracion' => 'Coláboracion digital de biblioteca',
     'colaboracion_desc' => 'Sitios web e información sobre plataformas digitales para el intercambio de recursos y de colaboración interbibliotecaria.',
+    'colaboracion_p1' => 'Este catálogo contiene sitios web e información sobre plataformas digitales para el intercambio de recursos y de colaboración interbibliotecaria. (Su institución debe tener autorización previa para utilizar estas aplicaciones)',
+    'colaboracion_p2' => '<a href="https://www.atla.com/" target="blank">American Theological Library Association</a>',
+    'colaboracion_p3' => '<a href="https://www.digitaliapublishing.com/" target="blank">Digitalia Hispánica</a>',
+    'colaboracion_p4' => '<a href="https://libguides.thedtl.org/home" target="blank">Digital Theological Library</a>',
+    'colaboracion_p5' => '<a href="https://libguides.thedtl.org/oadtl" target="blank">Open Access Digital Theological Library</a>',
+    'colaboracion_p6' => '<a href="https://drive.google.com/file/d/1PnlrHZex8IZ0HkEmXWMBu65o7LxgzAby/view" target="blank">Currículo</a>',
+    'colaboracion_p7' => '<a href="https://drive.google.com/file/d/1JrkCM4pe4SGFpg7jnbqIrn50uuenv3QC/view" target="blank">La Iglesia Hispana/Latina en los Estados Unidos</a>',
+    'colaboracion_p8' => '<a href="https://drive.google.com/file/d/17-I7IYvIcxAvv3AeJHrmxBenql7F9GcW/view" target="blank">Tópicos Variados</a>',
+
     'libreria' => 'Librería Virtual AETH',
-    'libreria_desc' => '',
+    'libreria_desc' => 'The AETH bookstore offers resources for Hispanic theological education and leadership.',
+
+    
     'colab_1' => 'Colaborar | Contribuir | Conectar',
     'colab_2' => 'BIBLIOTECA VIRTUAL ReDET',
     'comunidad_desc1' => 'ReDET crea proyectos comunes para el enriquecimiento de todas nuestras instituciones. Este tipo de colaboración hace posible lo que solos no podemos hacer pero entre todos podemos lograr. Hay muchas posibilidades delante de nosotros como ReDET y juntos soñamos con las nuevas cosas que nos harán excelentes y efectivos educadores teológicos ya sea en un instituto, la iglesia, un centro, seminario, colegio o universidad.',

@@ -83,7 +83,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12 team-block">
                 <div class="team-block-two">
                     <div class="inner-box">
-                        <a href="catalog.php?lang=<?php echo $lang_code; ?>">
+                        <a href="catalogo.php?lang=<?php echo $lang_code; ?>">
                             <figure class="image-box"><img src="assets/images/colab/6.png" alt=""></figure>
                         </a>
                         <div class="lower-content">
@@ -161,7 +161,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12 team-block">
                 <div class="team-block-two">
                     <div class="inner-box">
-                        <a href="libreria.php?lang=<?php echo $lang_code; ?>">
+                        <a href="https://aeth.info/bookstore" target="blank">
                             <figure class="image-box"><img src="assets/images/colab/12.png" alt=""></figure>
                         </a>
                         <div class="lower-content">
