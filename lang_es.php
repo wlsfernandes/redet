@@ -28,7 +28,7 @@ $lang = array(
     'about_desc3' => '2. Buscamos resolver en conjunto problemas y superar barreras que tenemos en común.',
     'about_desc4' => '3. Creamos e imaginamos oportunidades para expandir el alcance y para elevar la calidad de nuestros ministerios. ',
     'about_desc5' => '4. Procuramos desarrollar las condiciones, que por separado son difíciles de alcanzar, para que nuestro trabajo y nuestra enseñanza sean más relevantes a las comunidades a que servimos.',
-    '' => '5. Visionamos e innovamos alternativas metodológicas y organizacionales para que nuestras instituciones y organizaciones sean canales de servicio y señales del Reino de Dios.',
+    'about_desc6' => '5. Visionamos e innovamos alternativas metodológicas y organizacionales para que nuestras instituciones y organizaciones sean canales de servicio y señales del Reino de Dios.',
     'about_mission' => 'Fomentar la colaboración entre líderes de institutos bíblicos hispanos y de otros programas de formación teológica para resolver juntos problemas comunes y aprovechar las oportunidades que permitan cambios que resulten en el aumento de estudiantes y de personas graduadas capaces de servir a la iglesia y a la sociedad de una manera relevante.',
     'about_vision' => 'Constituir un movimiento de personas y entidades comprometido con la mejora constante y contextual de programas de educación teológica hispana para que nuestras iglesias y organizaciones sean canales de servicio y señales del Reino de Dios en el mundo.',
     'vision' => 'Vision',
@@ -124,7 +124,7 @@ $lang = array(
     'libreria' => 'Librería Virtual AETH',
     'libreria_desc' => 'The AETH bookstore offers resources for Hispanic theological education and leadership.',
 
-    
+
     'colab_1' => 'Colaborar | Contribuir | Conectar',
     'colab_2' => 'BIBLIOTECA VIRTUAL ReDET',
     'comunidad_desc1' => 'ReDET crea proyectos comunes para el enriquecimiento de todas nuestras instituciones. Este tipo de colaboración hace posible lo que solos no podemos hacer pero entre todos podemos lograr. Hay muchas posibilidades delante de nosotros como ReDET y juntos soñamos con las nuevas cosas que nos harán excelentes y efectivos educadores teológicos ya sea en un instituto, la iglesia, un centro, seminario, colegio o universidad.',

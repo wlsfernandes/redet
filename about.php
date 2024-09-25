@@ -31,6 +31,7 @@
                                 <p><?php echo $lang['about_desc3']; ?> </p>
                                 <p><?php echo $lang['about_desc4']; ?> </p>
                                 <p><?php echo $lang['about_desc5']; ?> </p>
+                                <p><?php echo $lang['about_desc6']; ?> </p>
                             </div>
                         </div>
                     </div>
