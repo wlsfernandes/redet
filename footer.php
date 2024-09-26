@@ -1,15 +1,16 @@
 <!-- main-footer -->
 <footer class="main-footer" style="margin-top:100px;">
-            <div class="auto-container">
-                <div class="footer-top">
-                    <figure class="footer-logo"><a href="index.html"><img src="assets/images/logo-3.png" alt=""></a></figure>
-                    <ul class="social-links">
-                        <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
-                        <li><a href="index.html"><i class="fab fa-instagram"></i></a></li>
-                    </ul>
-                </div>
-                <div class="widget-section">
+    <div class="auto-container">
+        <div class="footer-top">
+            <figure class="footer-logo"><img src="assets/images/logo-3.png" alt=""></figure>
+            <ul class="social-links">
+                <li><a href="https://www.facebook.com/groups/662799037578468" target="blank"><span
+                            class="fab fa-facebook-square" style="margin-top:16px;"></span></a></li>
+                <li><a href="https://www.instagram.com/aeth_org/" target="blank"><span class="fab fa-instagram"
+                            style="margin-top:16px;"></span></a></li>
+            </ul>
+        </div>
+        <!--      <div class="widget-section">
                     <div class="row clearfix">
                         <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
                             <div class="about-widget footer-widget">
@@ -70,53 +71,83 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="footer-bottom centred">
-                    <div class="copyright">
-                        <p>Copyright 2022 by <a href="index.html">trusthand</a> All Right Reserved.</p>
-                    </div>
-                </div>
-            </div>
-        </footer>
-        <!-- main-footer end -->
+                </div> -->
+        <div class="footer-bottom centred">
+            <div class="copyright">
+                <p><small>Copyright <span id="currentYear"></span> by <a
+                            href="https://devpromaster.com" target="_blank">devpromaster</a> All Right Reserved.</small>
+                </p>
 
-
-
-        <!--Scroll to top-->
-        <div class="scroll-to-top">
-            <div>
-                <div class="scroll-top-inner">
-                    <div class="scroll-bar">
-                        <div class="bar-inner"></div>
-                    </div>
-                    <div class="scroll-bar-text">Go To Top</div>
-                </div>
+                </p>
             </div>
         </div>
-        <!-- Scroll to top end -->
-        
     </div>
+</footer>
+<!-- main-footer end -->
 
 
-    <!-- jequery plugins -->
-    <script src="assets/js/jquery.js"></script>
-    <script src="assets/js/popper.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/owl.js"></script>
-    <script src="assets/js/wow.js"></script>
-    <script src="assets/js/validation.js"></script>
-    <script src="assets/js/jquery.fancybox.js"></script>
-    <script src="assets/js/appear.js"></script>
-    <script src="assets/js/scrollbar.js"></script>
-    <script src="assets/js/isotope.js"></script>
-    <script src="assets/js/jquery.nice-select.min.js"></script>
-    <script src="assets/js/parallax-scroll.js"></script>
-    <script src="assets/js/jquery-ui.js"></script>
-    <script src="assets/js/nav-tool.js"></script>
-    <script src="assets/js/jquery.bootstrap-touchspin.js"></script>
-    <script src="assets/js/bxslider.js"></script>
 
-    <!-- main-js -->
-    <script src="assets/js/script.js"></script>
+<!--Scroll to top-->
+<div class="scroll-to-top">
+    <div>
+        <div class="scroll-top-inner">
+            <div class="scroll-bar">
+                <div class="bar-inner"></div>
+            </div>
+            <div class="scroll-bar-text">Go To Top</div>
+        </div>
+    </div>
+</div>
+<!-- Scroll to top end -->
+
+</div>
+
+<style>
+    .social-links {
+        list-style: none;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        /* Add space between icons */
+    }
+
+    .social-links li {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .social-links a {
+        font-size: 24px;
+        /* Adjust size if needed */
+        color: #000;
+        /* Change to your preferred color */
+    }
+</style>
+<script>
+    // Get the current year
+    document.getElementById("currentYear").textContent = new Date().getFullYear();
+</script>
+<!-- jequery plugins -->
+<script src="assets/js/jquery.js"></script>
+<script src="assets/js/popper.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/owl.js"></script>
+<script src="assets/js/wow.js"></script>
+<script src="assets/js/validation.js"></script>
+<script src="assets/js/jquery.fancybox.js"></script>
+<script src="assets/js/appear.js"></script>
+<script src="assets/js/scrollbar.js"></script>
+<script src="assets/js/isotope.js"></script>
+<script src="assets/js/jquery.nice-select.min.js"></script>
+<script src="assets/js/parallax-scroll.js"></script>
+<script src="assets/js/jquery-ui.js"></script>
+<script src="assets/js/nav-tool.js"></script>
+<script src="assets/js/jquery.bootstrap-touchspin.js"></script>
+<script src="assets/js/bxslider.js"></script>
+
+<!-- main-js -->
+<script src="assets/js/script.js"></script>
 
 </body><!-- End of .page_wrapper -->

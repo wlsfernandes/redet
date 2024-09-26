@@ -150,19 +150,4 @@ $lang = array(
 <p>Si tú eres una de estas personas, te invitamos a que con tu conocimiento y experiencia fortalezcas la ReDET.</p>
 <p>Tu aporte es necesario para transformar la situación.</p>
 <p><strong>¡Hazte miembro de ReDET!</strong></p><p><a href="https://aeth.info/afiliacion" target="blank">Página de membresía de AETH</a>',
-
-    '' => '',
-    '' => '',
-    '' => '',
-    '' => '',
-    '' => '',
-    '' => '',
-    '' => '',
-    '' => '',
-    '' => '',
-    '' => '',
-
-
-
-
 );

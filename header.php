@@ -90,7 +90,7 @@ if (file_exists($lang_file)) {
                 </div>
             </div>
         </div>
-        <div id="donate-popup" class="donate-popup">
+        <!--  <div id="donate-popup" class="donate-popup">
             <div class="close-donate"><i class="fal fa-times"></i></div>
             <div class="popup-inner">
                 <div class="donate-content">
@@ -212,7 +212,7 @@ if (file_exists($lang_file)) {
                     </form>
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <header class="main-header header-style-two">
             <!-- header-top -->
@@ -221,9 +221,10 @@ if (file_exists($lang_file)) {
                     <div class="top-left">
                         <div class="social-links">
                             <ul class="clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-instagram"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
+                                <li><a href="https://www.facebook.com/groups/662799037578468" target="blank"><span
+                                            class="fab fa-facebook-square"></span></a></li>
+                                <li><a href="https://www.instagram.com/aeth_org/" target="blank"><span
+                                            class="fab fa-instagram"></span></a></li>
 
                             </ul>
                         </div>
@@ -273,7 +274,8 @@ if (file_exists($lang_file)) {
                                             href="index.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['home']; ?></a>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="about.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['about']; ?></a>
+                                        <a
+                                            href="about.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['about']; ?></a>
                                         <ul>
                                             <li><a href="team.php?lang=<?php echo $lang_code; ?>">Our Team</a></li>
 
@@ -293,8 +295,7 @@ if (file_exists($lang_file)) {
                                             href="members.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['members']; ?></a>
                                     </li>
                                     <li class="current">
-                                        <a
-                                            href="https://aeth.info/blog" target="blank"><?php echo $lang['news']; ?></a>
+                                        <a href="https://aeth.info/blog" target="blank"><?php echo $lang['news']; ?></a>
                                     </li>
                                     <li>
                                         <a
@@ -311,10 +312,11 @@ if (file_exists($lang_file)) {
                         </li>
                         <!-- <li class="cart-box">
                             <a href="shop.html"><i class="icon-23"></i></a>
-                        </li> -->
+                        </li> 
                         <li class="btn-box">
-                            <button class="donate-box-btn theme-btn-one"><span><?php echo $lang['donate'] ?></span></button>
-                        </li>
+                            <button
+                                class="donate-box-btn theme-btn-one"><span><?php echo $lang['donate'] ?></span></button>
+                        </li> -->
                     </ul>
                 </div>
             </div>
@@ -332,12 +334,12 @@ if (file_exists($lang_file)) {
                                 <!--Keep This Empty / Menu will come through Javascript-->
                             </nav>
                             <ul class="nav-right">
-                                <li class="search-box-outer search-toggler">
+                                <!--  <li class="search-box-outer search-toggler">
                                     <i class="icon-1"></i>
                                 </li>
                                 <li class="btn-box">
                                     <button class="donate-box-btn theme-btn-one"><span>Donate Now</span></button>
-                                </li>
+                                </li> -->
                             </ul>
                         </div>
                     </div>
@@ -350,25 +352,25 @@ if (file_exists($lang_file)) {
             <div class="close-btn"><i class="fas fa-times"></i></div>
 
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.php"><img src="assets/images/redet-logo.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="index.php"><img src="assets/images/redet-logo.png" alt="" title=""></a>
+                </div>
                 <div class="menu-outer">
                     <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
                 </div>
-                <div class="contact-info">
+                <!--    <div class="contact-info">
                     <h4>Contact Info</h4>
                     <ul>
                         <li>Chicago 12, Melborne City, USA</li>
                         <li><a href="tel:+8801682648101">+88 01682648101</a></li>
                         <li><a href="mailto:info@example.com">info@example.com</a></li>
                     </ul>
-                </div>
+                </div> -->
                 <div class="social-links">
                     <ul class="clearfix">
-                        <li><a href="index.php"><span class="fab fa-twitter"></span></a></li>
-                        <li><a href="index.php"><span class="fab fa-facebook-square"></span></a></li>
-                        <li><a href="index.php"><span class="fab fa-pinterest-p"></span></a></li>
-                        <li><a href="index.php"><span class="fab fa-instagram"></span></a></li>
-                        <li><a href="index.php"><span class="fab fa-youtube"></span></a></li>
+                        <li><a href="https://www.facebook.com/groups/662799037578468" target="blank"><span
+                                    class="fab fa-facebook-square"></span></a></li>
+                        <li><a href="https://www.instagram.com/aeth_org/" target="blank"><span
+                                    class="fab fa-instagram"></span></a></li>
                     </ul>
                 </div>
             </nav>
